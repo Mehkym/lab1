@@ -5,6 +5,8 @@ html {
 
 h1 {
     font-size: 1.6rem;
+    color:#1e0ff0;
+    text-transform: uppercase;
 }
 
 h2 {
